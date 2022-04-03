@@ -1,3 +1,3 @@
 # sistemas_informacion
 Repositorio dedicado a la asignatura Sistemas de Informacion
-Modificando fichero... Prueba_Slack
+Modificando fichero2... Prueba_Slack
